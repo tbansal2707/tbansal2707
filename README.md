@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Building Optimisation Models at Dematic**
 
+- 🤝 I’m looking for help with **Getting a job as a Data Scientist!**
+
 - 🌱 I’m currently learning **Deep Learning Specialisation**
 
 - 👯 I’m looking to collaborate on **Kaggle Projects**
